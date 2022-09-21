@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nested-tables/static/css/main.e6c13ad2.css",
+    "main.js": "/nested-tables/static/js/main.c1baed12.js",
+    "index.html": "/nested-tables/index.html",
+    "main.e6c13ad2.css.map": "/nested-tables/static/css/main.e6c13ad2.css.map",
+    "main.c1baed12.js.map": "/nested-tables/static/js/main.c1baed12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c1baed12.js"
+  ]
+}
